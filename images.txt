@@ -1,3 +1,3 @@
 
-redmine:latest
+rocketmq-dashboard:latest
 
